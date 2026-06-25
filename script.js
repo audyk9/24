@@ -6,13 +6,11 @@ document.getElementById("judul").innerHTML=`Hai ${nama} 🌸`;
 
 const text=
 
-`Semoga harimu selalu menyenangkan 😊
-
-Jangan lupa tersenyum.
-
-Jangan lupa makan.
-
-Dan semoga semua impianmu segera tercapai ❤️`;
+`halo sayangku cinta
+kamu yang sabar ya
+aku ngerjain kerjaan terus
+setiap hari
+i love you ❤️`;
 
 let i=0;
 
