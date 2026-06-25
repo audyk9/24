@@ -72,6 +72,6 @@ setTimeout(flower,i*15);
 
 }
 
-alert("🌸 Terima kasih sudah membaca 😊");
+alert("AKU JUGA CINTA SAMA KAMU!!!");
 
 }
